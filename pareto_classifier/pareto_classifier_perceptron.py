@@ -1,5 +1,5 @@
 from keras.models import Sequential
-from keras.layers import Dense, Dropout, Activation
+from keras.layers import Dense, Dropout
 
 pareto_classifier_perceptron = Sequential()
 pareto_classifier_perceptron.add(Dense(128, activation='relu', input_dim=60))
