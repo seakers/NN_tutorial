@@ -29,6 +29,10 @@ elif number == 2:
     print("Test loss: %.5f Test accuracy: %.5f" % (score[0], score[1]))
     pcp.pareto_classifier_perceptron.save(os.path.join('./models', 'pareto_classifier_perceptron.h5'))
 elif number == 3:
-    pass
+    x_train, y_train, x_test, y_test = data_cleaning.pareto_classifier_cnn_data()
+    pcc.pareto_classifier_cnn.fit(x_train, y_train, epochs=40, batch_size=128)
+    score = pcc.pareto_classifier_cnn.evaluate(x_test, y_test, batch_size=128)
+    print("Test loss: %.5f Test accuracy: %.5f" % (score[0], score[1]))
+    pcc.pareto_classifier_cnn.save(os.path.join('./models', 'pareto_classifier_cnn.h5'))
 elif number == 4:
     pass

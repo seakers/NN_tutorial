@@ -1,0 +1,200 @@
+which missions can measure Sea-ice drift between 1985 and 2032
+which missions can measure Atmospheric Chemistry - CFC-11 (column/profile) between 2045 and 1985
+which missions can measure Lightning detection
+which missions can measure Cloud mask between 2010 and 2040
+which missions can measure Land surface imagery between 2000 and 2045
+which missions can measure Atmospheric Chemistry - ClONO2 (column/profile)
+which missions can measure Vegetation type between 2022 and 2005
+which missions can measure Ion density, drift velocity, and temperature between 2027 and 1987
+which missions can measure Glacier motion between 1970 and 2001
+which missions can measure Melting layer depth in clouds between 1971 and 2031
+which missions can measure Short-wave Earth surface bi-directional reflectance between 2052 and 1982
+which missions can measure Upwelling (Outgoing) short-wave radiation at the Earth surface between 1970 and 2028
+which missions can measure Glacier motion
+which missions can measure Ocean surface currents (vector)
+which missions can measure Ion density, drift velocity, and temperature between 2029 and 2001
+which missions can measure Atmospheric Chemistry - PAN (column/profile)
+which missions can measure Atmospheric Chemistry - CH3Br (column/profile) between 1986 and 2037
+which missions can measure Chlorophyll Fluorescence from Vegetation on Land between 2001 and 1982
+which missions can measure Upwelling (Outgoing) long-wave radiation at TOA between 1976 and 2005
+which missions can measure Glacier area
+which missions can measure Lake area between 2013 and 1993
+which missions can measure Snow albedo
+which missions can measure Atmospheric Chemistry - CO (column/profile)
+which missions can measure Atmospheric specific humidity (column/profile) between 2031 and 2002
+which missions can measure Ocean chlorophyll concentration
+which missions can measure Oil spill cover
+which missions can measure Cloud mask
+which missions can measure Atmospheric Chemistry - PAN (column/profile)
+which missions can measure Sea surface temperature between 2008 and 1991
+which missions can measure Electron energy and pitch angle distribution between 2017 and 1972
+which missions can measure Magnetic field (scalar) between 2009 and 1970
+which missions can measure Wind speed over sea surface (horizontal)
+which missions can measure Geoid
+which missions can measure Water vapour imagery
+which missions can measure Cloud mask
+which missions can measure Wind vector over sea surface (horizontal)
+which missions can measure Electric field (vector) between 2023 and 1978
+which missions can measure Wave directional energy frequency spectrum between 2014 and 2040
+which missions can measure Atmospheric Chemistry - CO (column/profile) between 2048 and 2015
+which missions can measure Land cover between 2025 and 2011
+which missions can measure Electron energy and pitch angle distribution between 1988 and 1990
+which missions can measure Land surface topography between 1965 and 2054
+which missions can measure Upwelling (Outgoing) spectral radiance at TOA
+which missions can measure Glacier motion between 2054 and 1967
+which missions can measure Snow grain size
+which missions can measure Sea-ice cover between 2005 and 2015
+which missions can measure Atmospheric Chemistry - PSC (column/profile) between 2046 and 1988
+which missions can measure Dominant wave period between 2037 and 1974
+which missions can measure Cloud liquid water (column/profile)
+which missions can measure Upwelling (Outgoing) long-wave radiation at TOA between 2042 and 2017
+which missions can measure Aerosol effective radius (column/profile)
+which missions can measure Soil moisture at the surface between 2039 and 1992
+which missions can measure Wind profile (horizontal)
+which missions can measure Earth surface albedo between 2050 and 1983
+which missions can measure Fire area between 2015 and 2017
+which missions can measure Atmospheric Chemistry - OH (column/profile) between 1978 and 1994
+which missions can measure Precipitation rate (liquid) at the surface between 1990 and 2007
+which missions can measure Electric field (vector)
+which missions can measure Upwelling (Outgoing) short-wave radiation at the Earth surface between 2023 and 2010
+which missions can measure Downwelling (Incoming) long-wave radiation at the Earth surface between 2043 and 2013
+which missions can measure Ocean surface currents (vector)
+which missions can measure Cloud type between 1974 and 2024
+which missions can measure Bathymetry
+which missions can measure Surface Coherent Change Detection
+which missions can measure Atmospheric Chemistry - CH3Br (column/profile)
+which missions can measure Iceberg fractional cover between 2046 and 1993
+which missions can measure Sea state wavelength
+which missions can measure Soil moisture in the roots region
+which missions can measure Wind vector over sea surface (horizontal)
+which missions can measure Ocean suspended sediment concentration between 1980 and 2048
+which missions can measure Cloud mask between 2043 and 2030
+which missions can measure Active Fire Detection between 2039 and 1983
+which missions can measure Fire area
+which missions can measure Soil moisture in the roots region between 2014 and 1987
+which missions can measure Land surface temperature
+which missions can measure Wind profile (horizontal)
+which missions can measure Magnetic field (scalar)
+which missions can measure Sea state wavelength
+which missions can measure Vegetation Canopy (cover)
+which missions can measure Upwelling (Outgoing) spectral radiance at TOA
+which missions can measure Fractionally absorbed PAR (FPAR) between 2011 and 2015
+which missions can measure Turbulence
+which missions can measure Magnetic field (vector) between 1995 and 1966
+which missions can measure Aerosol effective radius (column/profile)
+which missions can measure Atmospheric Chemistry - COS (column/profile)
+which missions can measure Height of the top of the Planetary Boundary Layer between 1974 and 1976
+which missions can measure Snow surface temperature between 2029 and 2041
+which missions can measure Atmospheric pressure (over sea surface) between 2007 and 2014
+which missions can measure Sea-ice cover between 1983 and 1996
+which missions can measure Short-wave Earth surface bi-directional reflectance
+which missions can measure Atmospheric Chemistry - OH (column/profile)
+which missions can measure Land surface topography between 1998 and 2024
+which missions can measure Sea-ice type
+which missions can measure Lake Surface Height between 2036 and 2002
+which missions can measure Sea surface temperature between 2019 and 2000
+which missions can measure Atmospheric Chemistry - HCFC-22 (column/profile) between 2012 and 2044
+which missions can measure Fire area between 2009 and 2044
+which missions can measure Precipitation rate (liquid) at the surface
+which missions can measure Atmospheric Chemistry - CHOCHO (column/profile) between 1976 and 2019
+which missions can measure Cloud ice (column/profile) between 1968 and 1975
+which missions can measure Iceberg fractional cover
+which missions can measure Sea level
+which missions can measure Upwelling (Outgoing) long-wave radiation at Earth surface
+which missions can measure Gravity gradients between 2049 and 2034
+which missions can measure Atmospheric Chemistry - CH2O (column/profile)
+which missions can measure Sea level
+which missions can measure Diffuse attenuation coefficient (DAC)
+which missions can measure Aerosol effective radius (column/profile)
+which missions can measure Leaf Area Index (LAI)
+which missions can measure Solar spectral irradiance between 1972 and 1986
+which missions can measure Soil moisture in the roots region between 1990 and 2006
+which missions can measure Iceberg height between 2003 and 1989
+which missions can measure Melting layer depth in clouds
+which missions can measure Sea-ice cover between 2028 and 2051
+which missions can measure Electric field (vector)
+which missions can measure Oil spill cover between 2006 and 2014
+which missions can measure Sea-ice surface temperature between 2005 and 1994
+which missions can measure Wind speed over land surface (horizontal)
+which missions can measure Upwelling (Outgoing) spectral radiance at TOA
+which missions can measure Land surface topography
+which missions can measure Ocean salinity
+which missions can measure Atmospheric pressure (over land surface) between 1970 and 1990
+which missions can measure Wind vector over land surface (horizontal) between 2007 and 2051
+which missions can measure Sea-ice type
+which missions can measure Upwelling (Outgoing) long-wave radiation at TOA between 2016 and 2045
+which missions can measure Visibility
+which missions can measure Atmospheric Chemistry - CFC-11 (column/profile) between 2001 and 2032
+which missions can measure Permafrost between 2014 and 2007
+which missions can measure Cloud ice (column/profile) between 2023 and 2015
+which missions can measure Sea-ice drift
+which missions can measure Atmospheric Chemistry - HDO (column/profile) between 2005 and 2006
+which missions can measure Atmospheric Chemistry - SF6 (column/profile) between 2002 and 1990
+which missions can measure Snow water equivalent
+which missions can measure Long-wave cloud emissivity between 1996 and 1994
+which missions can measure Cloud ice (column/profile) between 2026 and 2038
+which missions can measure Wind speed over sea surface (horizontal) between 2040 and 2007
+which missions can measure Snow grain size
+which missions can measure Snow cover between 1979 and 2020
+which missions can measure Atmospheric specific humidity (at surface)
+which missions can measure Upwelling (Outgoing) short-wave radiation at TOA between 1995 and 1974
+which missions can measure Electron energy and pitch angle distribution
+which missions can measure Atmospheric Chemistry - ClO (column/profile) between 1997 and 2012
+which missions can measure Cloud ice content (at cloud top) between 1981 and 2051
+which missions can measure Precipitation rate (solid) at the surface between 1998 and 1992
+which missions can measure Short-wave Earth surface bi-directional reflectance between 1968 and 2033
+which missions can measure Snow grain size
+which missions can measure Upwelling (Outgoing) long-wave radiation at Earth surface between 2037 and 2019
+which missions can measure Lake Surface Height
+which missions can measure Lake Surface Height between 1976 and 2042
+which missions can measure Lake Surface Height between 2015 and 2030
+which missions can measure Wind stress
+which missions can measure Dominant wave direction
+which missions can measure Atmospheric Chemistry - NO (column/profile)
+which missions can measure Cloud ice content (at cloud top) between 1985 and 1965
+which missions can measure Snow surface temperature between 1980 and 2048
+which missions can measure Wind vector over land surface (horizontal) between 1993 and 1990
+which missions can measure Upwelling (Outgoing) long-wave radiation at Earth surface between 2053 and 2028
+which missions can measure Atmospheric Chemistry - HNO3 (column/profile)
+which missions can measure Height of tropopause
+which missions can measure Diffuse attenuation coefficient (DAC)
+which missions can measure Electron density profile between 1977 and 2006
+which missions can measure Atmospheric Chemistry - SF6 (column/profile) between 2018 and 2016
+which missions can measure Turbulence between 1968 and 2048
+which missions can measure Sea-ice drift between 1968 and 2041
+which missions can measure Atmospheric Chemistry - OClO (column/profile)
+which missions can measure Fire area between 2043 and 2002
+which missions can measure Sea-ice concentration
+which missions can measure Atmospheric Chemistry - CFC-11 (column/profile)
+which missions can measure Fire temperature between 2051 and 2003
+which missions can measure Atmospheric Chemistry - CFC-12 (column/profile) between 2001 and 2033
+which missions can measure Solar spectral irradiance between 2035 and 2028
+which missions can measure Precipitation Profile (liquid or solid)
+which missions can measure Dominant wave direction between 2026 and 2040
+which missions can measure Iceberg fractional cover
+which missions can measure Permafrost between 2047 and 1973
+which missions can measure Vegetation Canopy (cover) between 1980 and 2000
+which missions can measure Fire area between 1999 and 1979
+which missions can measure Ozone profile
+which missions can measure Magnetic field (scalar)
+which missions can measure Wind vector over sea surface (horizontal) between 2027 and 2030
+which missions can measure Active Fire Detection
+which missions can measure Atmospheric Chemistry - N2O5 (column/profile) between 2014 and 1968
+which missions can measure Cloud optical depth
+which missions can measure Ocean imagery and water leaving radiance
+which missions can measure Glacier area between 2029 and 1987
+which missions can measure Sea-ice surface temperature
+which missions can measure Sea-ice surface temperature
+which missions can measure Ocean suspended sediment concentration
+which missions can measure Wind speed over sea surface (horizontal)
+which missions can measure Height of tropopause between 1983 and 2052
+which missions can measure Photosynthetically Active Radiation (PAR) between 2003 and 2011
+which missions can measure Upwelling (Outgoing) spectral radiance at TOA
+which missions can measure Sea-ice sheet topography
+which missions can measure Temperature of tropopause between 1970 and 2054
+which missions can measure Atmospheric Chemistry - C2H6 (column/profile) between 1971 and 1981
+which missions can measure Upwelling (Outgoing) long-wave radiation at Earth surface between 2041 and 2008
+which missions can measure Active Fire Detection between 2026 and 2051
+which missions can measure Short-wave cloud reflectance
+which missions can measure Diffuse attenuation coefficient (DAC) between 2026 and 2001
+which missions can measure Cloud ice (column/profile) between 2054 and 2001

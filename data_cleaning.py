@@ -47,6 +47,10 @@ def boolean_array2double_array(boolean_array):
     return [float(b) for b in boolean_array]
 
 
+def generate_matrices(linear_input):
+    return np.expand_dims(np.reshape(linear_input, (-1, 5, 12)), -1)
+
+
 def generate_numpy_arrays(cleaned_array, x_index, y_index):
     x = np.array([boolean_array2double_array(boolean_string2boolean_array(cleaned_row[x_index])) for cleaned_row in cleaned_array])
     y = np.array([float(cleaned_row[y_index]) for cleaned_row in cleaned_array])
@@ -80,4 +84,14 @@ def pareto_classifier_data():
     pareto_array = add_pareto_information(raw_array, 'pareto_front.json')
     cleaned_array = remove_duplicates(pareto_array)
     x, y = generate_numpy_arrays(cleaned_array, 0, 3)
+    return data_split_train_test(x, y, 0.1)
+
+
+def pareto_classifier_cnn_data():
+    raw_array = load_csv_data('EOSS_data.csv')
+    pareto_array = add_pareto_information(raw_array, 'pareto_front.json')
+    cleaned_array = remove_duplicates(pareto_array)
+    x, y = generate_numpy_arrays(cleaned_array, 0, 3)
+    x = generate_matrices(x)
+
     return data_split_train_test(x, y, 0.1)
