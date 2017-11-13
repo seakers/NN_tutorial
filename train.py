@@ -1,4 +1,4 @@
-import score_predictor.score_predictor as sp
+import score_predictor.score_predictor_final as sp
 import pareto_classifier.pareto_classifier_perceptron as pcp
 import pareto_classifier.pareto_classifier_cnn as pcc
 import text_classifier.text_classifier as tc
@@ -23,13 +23,13 @@ if number == 1:
     print("Test MSE: %.5f" % score)
     sp.score_predictor.save(os.path.join('./models', 'score_predictor.h5'))
 elif number == 2:
-    x_train, y_train, x_test, y_test = data_cleaning.pareto_classifier_data()
+    x_train, y_train, x_test, y_test = data_cleaning.pareto_classifier_data(True)
     pcp.pareto_classifier_perceptron.fit(x_train, y_train, epochs=40, batch_size=128)
     score = pcp.pareto_classifier_perceptron.evaluate(x_test, y_test, batch_size=128)
     print("Test loss: %.5f Test accuracy: %.5f" % (score[0], score[1]))
     pcp.pareto_classifier_perceptron.save(os.path.join('./models', 'pareto_classifier_perceptron.h5'))
 elif number == 3:
-    x_train, y_train, x_test, y_test = data_cleaning.pareto_classifier_cnn_data()
+    x_train, y_train, x_test, y_test = data_cleaning.pareto_classifier_cnn_data(True)
     pcc.pareto_classifier_cnn.fit(x_train, y_train, epochs=40, batch_size=128)
     score = pcc.pareto_classifier_cnn.evaluate(x_test, y_test, batch_size=128)
     print("Test loss: %.5f Test accuracy: %.5f" % (score[0], score[1]))
