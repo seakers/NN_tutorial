@@ -1,7 +1,7 @@
 import score_predictor.score_predictor_final as sp
-import pareto_classifier.pareto_classifier_perceptron as pcp
-import pareto_classifier.pareto_classifier_cnn as pcc
-import text_classifier.text_classifier as tc
+import pareto_classifier.pareto_classifier_perceptron_final as pcp
+import pareto_classifier.pareto_classifier_cnn_final as pcc
+import text_classifier.text_classifier_final as tc
 import data_cleaning
 import os
 

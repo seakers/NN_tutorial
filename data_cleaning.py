@@ -8,7 +8,7 @@ from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 import pickle
 
-nlp = spacy.load('en')
+nlp = spacy.load('en_core_web_sm')
 
 
 def load_csv_data(filename):
