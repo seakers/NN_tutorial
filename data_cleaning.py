@@ -140,6 +140,14 @@ def score_predictor_data():
     return data_split_train_test(x, y, 0.1)
 
 
+def score_predictor_cnn_data():
+    raw_array = load_csv_data('EOSS_data.csv')
+    cleaned_array = remove_duplicates(raw_array)
+    x, y = generate_numpy_arrays(cleaned_array, 0, 1)
+    x = generate_matrices(x)
+    return data_split_train_test(x, y, 0.1)
+
+
 def pareto_classifier_data(same_size):
     raw_array = load_csv_data('EOSS_data.csv')
     pareto_array, num_pos = add_pareto_information(raw_array, 'pareto_front.json')
